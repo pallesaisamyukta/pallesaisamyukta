@@ -1,12 +1,14 @@
 # 👋 Hello, I'm Samyukta!
 
-I'm an aspiring AI engineer currently pursuing an M.Eng. in Artificial Intelligence at Duke University. My passion lies in harnessing the power of AI to solve real-world problems and contribute to societal well-being. With a solid foundation in engineering projects and a focus on optimization, deep learning, and operationalizing AI, I bring a diverse skill set to the table.
+I'm an aspiring AI engineer currently pursuing an M.Eng. in Artificial Intelligence at Duke University. My passion lies in harnessing the power of AI to solve real-world problems and contribute to societal well-being. With a solid foundation in engineering projects and a focus on Data Analysis, Machine Learning, and Optimization, I bring a diverse skill set to the table.
 
   🌱 I’m currently exploring Generative AI - Large Language Models, especially in Healthcare Industry.
   
   👨‍💻 I've worked on impactful projects at **Deloitte** and now working with **Weights & Biases**.
   
   💬 I'm always up for a conversation on the whole Data Science cycle from Formulations based on Business Needs to Algorithms on ML, NLP, Large Language Models (LLMs) and the model Deployment.
+
+  🐶 On a personal note, I'm at my happiest when I'm in the company of dogs and indulging in delicious desserts.
 
 ## 🔧  Languages & Tools
 <p align="left"> 
