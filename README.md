@@ -2,31 +2,36 @@
 
 I'm an aspiring AI engineer currently pursuing an M.Eng. in Artificial Intelligence at Duke University. My passion lies in harnessing the power of AI to solve real-world problems and contribute to societal well-being. With a solid foundation in engineering projects and a focus on optimization, deep learning, and operationalizing AI, I bring a diverse skill set to the table.
 
-## 🔧 Skills
+  🌱 I’m currently exploring Generative AI - Large Language Models, especially in Healthcare Industry.
+  
+  👨‍💻 I've worked on impactful projects at **Deloitte** and now working with **Weights & Biases**.
+  
+  💬 I'm always up for a conversation on the whole Data Science cycle from Formulations based on Business Needs to Algorithms on ML, NLP, Large Language Models (LLMs) and the model Deployment.
 
-- **Programming Languages:** Python, PySpark, R
-- **Data Engineering:** Data Analytics, Data Modeling
-- **Tools and Technologies:** AWS, Power BI
-- **Project Management:** Project Orchestration, Automation
-
-## 🚀 Projects
-
-### Data Restructuring and Enhancement
-- Restructured a dataset of 5000+ Legacy XML files, creating standardized models (XSDs, DTDs) to improve data quality for a more efficient search engine.
-
-### Collaborative Data Deduplication
-- Led the design and implementation of collaborative data deduplication processes, ensuring accurate and comprehensive records post-integration for diverse clients.
-
-### AI-Powered Consumer Insights
-- Currently working on leveraging AI for consumer insights and BI Analytics as part of my studies at Duke University.
+## 🔧  Languages & Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ## 🌐 Connect with Me
 
 - LinkedIn: www.linkedin.com/in/sai-samyukta-palle
+- Mail: pallesaisamyukta@gmail.com, sp686@duke.edu
 
-
-
-Let's connect and explore the exciting possibilities at the intersection of AI, data, and technology!
 
 <!---
 pallesaisamyukta/pallesaisamyukta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
